@@ -20,7 +20,7 @@ Sou estudante de Engenharia de Software na PUC Minas, apaixonada por tecnologia,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=all" alt="SpringBoot" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/ff2c39a4-337f-4e60-830b-c83d5b4b8c4b" alt="SpringBoot" width="40" height="40"/>
 </div>
 
 <br/>
