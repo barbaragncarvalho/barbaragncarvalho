@@ -21,6 +21,7 @@ Sou estudante de Engenharia de Software na PUC Minas, apaixonada por tecnologia,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
     <img src="https://img.icons8.com/color/200/spring-logo.png" alt="SpringBoot" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
 </div>
 
 <br/>
